@@ -12,5 +12,5 @@
 - iPhone 12미니에서 최적화
 
 ## Preview
- [![Video Label]](https://www.youtube.com/embed/5HzGtYGfDV8)
+ [![youtube 영상 클릭](https://www.youtube.com/embed/5HzGtYGfDV8)
 
